@@ -1,0 +1,10 @@
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Renci.SshNet.dll
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Renci.SshNet.xml
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Prashu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
